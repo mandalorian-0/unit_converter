@@ -1,3 +1,6 @@
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![Tkinter](https://img.shields.io/badge/Tkinter-✓-green.svg)](https://docs.python.org/3/library/tkinter.html)
+
 # 🚀 Miles to Kilometers Converter
 
 A simple, interactive Python application that converts miles to kilometers using the Tkinter GUI library.
@@ -31,20 +34,21 @@ A simple, interactive Python application that converts miles to kilometers using
 
 ## 🚀 How to Run
 1. Ensure you have Python 3.x installed.
-2. Save the code as `miles_to_km.py`.
+2. Clone the project
+
+   ```bash 
+   git clone https://github.com/mandalorian-0/unit_converter.git
+   
+   cd unit_converter
+   ```
 3. Run the script:
    ```bash
-   python miles_to_km.py
+   python unit_converter.py
    ```
 
 ## 📝 Notes
 - The conversion uses the standard conversion factor: 1 mile = 1.60934 km.
 - Results are rounded to 2 decimal places for readability.
-
-## 🏷️ Badges
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
-[![Tkinter](https://img.shields.io/badge/Tkinter-✓-green.svg)](https://docs.python.org/3/library/tkinter.html)
 
 ## 📚 Documentation
 For more information about Tkinter, visit the official Python documentation:  
